@@ -1,3 +1,3 @@
 # CODSOFT
-This is project made by me
+This project made by me
 for codsoft intership program.
